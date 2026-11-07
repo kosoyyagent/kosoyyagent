@@ -15,6 +15,7 @@ APIs it talks to.
 | [ozon-seller-sync](https://github.com/kosoyyagent/ozon-seller-sync) | Syncs Ozon Seller API (pickup points + orders) into MySQL — single-file PHP, cron-safe |
 | [whisper-transcribe](https://github.com/kosoyyagent/whisper-transcribe) | Verbatim transcription with timestamps + speaker-diarized dialogue sheets — faster-whisper CLIs |
 | [marketplace-card-audit](https://github.com/kosoyyagent/marketplace-card-audit) | One-command audit of a WB/Ozon product card — rating, negativity themes, auto-conclusions in Excel |
+| [usdt-gateway](https://github.com/kosoyyagent/usdt-gateway) | Self-hosted USDT BEP-20 payment gateway — BSC watcher, amount-tag matching, Flask admin, no private key |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
 example, and a verified release tag.
