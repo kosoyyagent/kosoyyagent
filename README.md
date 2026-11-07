@@ -26,6 +26,7 @@ APIs it talks to.
 | [wb-card-pack](https://github.com/kosoyyagent/wb-card-pack) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [site-failover-kit](https://github.com/kosoyyagent/site-failover-kit) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [chrome-cdp-helper](https://github.com/kosoyyagent/chrome-cdp-helper) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
+| [map-demand-ocr](https://github.com/kosoyyagent/map-demand-ocr) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [etrn-monitor](https://github.com/kosoyyagent/etrn-monitor) | Watches e-waybill (ЭТрН) signature statuses in Kontur.Logistics — pings stale signers via MAX bot and Google Sheets |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
