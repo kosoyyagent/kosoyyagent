@@ -17,17 +17,17 @@ APIs it talks to.
 | [marketplace-card-audit](https://github.com/kosoyyagent/marketplace-card-audit) | One-command audit of a WB/Ozon product card — rating, negativity themes, auto-conclusions in Excel |
 | [usdt-gateway](https://github.com/kosoyyagent/usdt-gateway) | Self-hosted USDT BEP-20 payment gateway — BSC watcher, amount-tag matching, Flask admin, no private key |
 | [wb-photo-insert](https://github.com/kosoyyagent/wb-photo-insert) | Insert one photo into a slide position across many WB cards at once — Content API, file/URL modes |
-| [moex-signal-watch](https://github.com/kosoyyagent/moex-signal-watch) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [tg-channel-collector](https://github.com/kosoyyagent/tg-channel-collector) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [apify-import-bridge](https://github.com/kosoyyagent/apify-import-bridge) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [demand-signal-monitor](https://github.com/kosoyyagent/demand-signal-monitor) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [wb-ozon-ip-evidence](https://github.com/kosoyyagent/wb-ozon-ip-evidence) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [fl-feed-watch](https://github.com/kosoyyagent/fl-feed-watch) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [wb-card-pack](https://github.com/kosoyyagent/wb-card-pack) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [site-failover-kit](https://github.com/kosoyyagent/site-failover-kit) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [chrome-cdp-helper](https://github.com/kosoyyagent/chrome-cdp-helper) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
-| [map-demand-ocr](https://github.com/kosoyyagent/map-demand-ocr) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [etrn-monitor](https://github.com/kosoyyagent/etrn-monitor) | Watches e-waybill (ЭТрН) signature statuses in Kontur.Logistics — pings stale signers via MAX bot and Google Sheets |
+| [moex-signal-watch](https://github.com/kosoyyagent/moex-signal-watch) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
+| [tg-channel-collector](https://github.com/kosoyyagent/tg-channel-collector) | Collect Telegram channels by topic into CSV — subscribers, description, last-post date (TG Web CDP + t.me/s metadata) |
+| [apify-import-bridge](https://github.com/kosoyyagent/apify-import-bridge) | Apify dataset → normalized CSV/XLSX for WordPress import — field mapping, dedup, bundled WP cron plugin |
+| [demand-signal-monitor](https://github.com/kosoyyagent/demand-signal-monitor) | Demand-signal monitor — new Yandex pages for your phrases + TG channel posts by keywords → Telegram alerts |
+| [wb-ozon-ip-evidence](https://github.com/kosoyyagent/wb-ozon-ip-evidence) | Evidence pack for stolen WB/Ozon card complaints — metadata, all photos, screenshots → Excel report + claim template |
+| [fl-feed-watch](https://github.com/kosoyyagent/fl-feed-watch) | Watches new FL.ru and Kwork orders → Telegram alerts — regex filter, multiple feeds, sqlite dedup, flood-limit safe |
+| [wb-card-pack](https://github.com/kosoyyagent/wb-card-pack) | Generates Wildberries card content from an Excel spec — SEO title, description, keywords, characteristics → xlsx |
+| [site-failover-kit](https://github.com/kosoyyagent/site-failover-kit) | 3 bash scripts: hourly site replication (files+MySQL) to standby, daily rotated backups to rclone storage, automatic failover on healthcheck |
+| [chrome-cdp-helper](https://github.com/kosoyyagent/chrome-cdp-helper) | ~110 lines: Playwright over a normal Chrome via CDP with a persistent profile — authenticated dashboards and actions APIs can't reach, no automation fingerprint |
+| [map-demand-ocr](https://github.com/kosoyyagent/map-demand-ocr) | OCR of numeric markers off a demand-map screenshot (taxi radar zones) — zone/confidence filters, totals, annotation |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
 example, and a verified release tag.
