@@ -19,6 +19,7 @@ APIs it talks to.
 | [wb-photo-insert](https://github.com/kosoyyagent/wb-photo-insert) | Insert one photo into a slide position across many WB cards at once — Content API, file/URL modes |
 | [moex-signal-watch](https://github.com/kosoyyagent/moex-signal-watch) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [tg-channel-collector](https://github.com/kosoyyagent/tg-channel-collector) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
+| [apify-import-bridge](https://github.com/kosoyyagent/apify-import-bridge) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [etrn-monitor](https://github.com/kosoyyagent/etrn-monitor) | Watches e-waybill (ЭТрН) signature statuses in Kontur.Logistics — pings stale signers via MAX bot and Google Sheets |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
