@@ -17,6 +17,7 @@ APIs it talks to.
 | [marketplace-card-audit](https://github.com/kosoyyagent/marketplace-card-audit) | One-command audit of a WB/Ozon product card — rating, negativity themes, auto-conclusions in Excel |
 | [usdt-gateway](https://github.com/kosoyyagent/usdt-gateway) | Self-hosted USDT BEP-20 payment gateway — BSC watcher, amount-tag matching, Flask admin, no private key |
 | [wb-photo-insert](https://github.com/kosoyyagent/wb-photo-insert) | Insert one photo into a slide position across many WB cards at once — Content API, file/URL modes |
+| [etrn-monitor](https://github.com/kosoyyagent/etrn-monitor) | Watches e-waybill (ЭТрН) signature statuses in Kontur.Logistics — pings stale signers via MAX bot and Google Sheets |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
 example, and a verified release tag.
