@@ -12,6 +12,7 @@ APIs it talks to.
 | [ai-assistant-service](https://github.com/kosoyyagent/ai-assistant-service) | Self-hosted private AI chat service — per-user history, admin panel, any OpenAI-compatible API or Yandex AI Studio |
 | [wb-reviews-digest](https://github.com/kosoyyagent/wb-reviews-digest) | Daily Excel digest of new Wildberries/Ozon reviews — public WB API, no keys needed |
 | [category-mapper](https://github.com/kosoyyagent/category-mapper) | Maps supplier product categories onto your shop's category tree — review-ready Excel output |
+| [ozon-seller-sync](https://github.com/kosoyyagent/ozon-seller-sync) | Syncs Ozon Seller API (pickup points + orders) into MySQL — single-file PHP, cron-safe |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
 example, and a verified release tag.
