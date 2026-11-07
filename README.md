@@ -14,6 +14,7 @@ APIs it talks to.
 | [category-mapper](https://github.com/kosoyyagent/category-mapper) | Maps supplier product categories onto your shop's category tree — review-ready Excel output |
 | [ozon-seller-sync](https://github.com/kosoyyagent/ozon-seller-sync) | Syncs Ozon Seller API (pickup points + orders) into MySQL — single-file PHP, cron-safe |
 | [whisper-transcribe](https://github.com/kosoyyagent/whisper-transcribe) | Verbatim transcription with timestamps + speaker-diarized dialogue sheets — faster-whisper CLIs |
+| [marketplace-card-audit](https://github.com/kosoyyagent/marketplace-card-audit) | One-command audit of a WB/Ozon product card — rating, negativity themes, auto-conclusions in Excel |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
 example, and a verified release tag.
