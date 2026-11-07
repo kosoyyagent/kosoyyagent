@@ -22,6 +22,7 @@ APIs it talks to.
 | [apify-import-bridge](https://github.com/kosoyyagent/apify-import-bridge) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [demand-signal-monitor](https://github.com/kosoyyagent/demand-signal-monitor) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [wb-ozon-ip-evidence](https://github.com/kosoyyagent/wb-ozon-ip-evidence) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
+| [fl-feed-watch](https://github.com/kosoyyagent/fl-feed-watch) | MOEX trading-signal monitor — candle %, halts, price limits → Telegram & MAX alerts, stdlib only |
 | [etrn-monitor](https://github.com/kosoyyagent/etrn-monitor) | Watches e-waybill (ЭТрН) signature statuses in Kontur.Logistics — pings stale signers via MAX bot and Google Sheets |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
