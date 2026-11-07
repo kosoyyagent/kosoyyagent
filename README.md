@@ -13,6 +13,7 @@ APIs it talks to.
 | [wb-reviews-digest](https://github.com/kosoyyagent/wb-reviews-digest) | Daily Excel digest of new Wildberries/Ozon reviews — public WB API, no keys needed |
 | [category-mapper](https://github.com/kosoyyagent/category-mapper) | Maps supplier product categories onto your shop's category tree — review-ready Excel output |
 | [ozon-seller-sync](https://github.com/kosoyyagent/ozon-seller-sync) | Syncs Ozon Seller API (pickup points + orders) into MySQL — single-file PHP, cron-safe |
+| [whisper-transcribe](https://github.com/kosoyyagent/whisper-transcribe) | Verbatim transcription with timestamps + speaker-diarized dialogue sheets — faster-whisper CLIs |
 
 All MIT-licensed. Every repo ships with setup docs, an `.env`/`config`
 example, and a verified release tag.
